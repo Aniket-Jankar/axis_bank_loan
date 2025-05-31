@@ -6,6 +6,6 @@
   
   <build>
   
-  <finalName>pwd-service</finalName>
+  <finalName>pwd-service-app</finalName>
   </build>
 </project>
